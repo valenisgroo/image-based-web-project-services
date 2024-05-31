@@ -2,4 +2,4 @@ Este repositorio se trata se una pagina para ofrecer servicios. La idea es copia
 
 ORIGINAL: https://dribbble.com/shots/21256487-What-we-offer-section-design
 
-MI PAGINA: file:///C:/Users/valen/Desktop/servicios/index.html
+MI PAGINA: https://valenisgroo.github.io/image-based-web-project-services/
